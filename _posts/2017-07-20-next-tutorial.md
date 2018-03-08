@@ -1,9 +1,10 @@
 ---
-title: Next Theme Tutorial
-description: NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.
+title: 멀티미디어 자격증 필기공부
+description: 포스팅 연습 겸, 현재 공부하고 있는 멀티미디어 자격증의 공부노트 입니다. 
 categories:
- - tutorial
+ - 자격증 
 tags:
+ - 멀티미디어 
 ---
 
 > NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo Next](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
@@ -145,6 +146,9 @@ Head over to [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) fo
 ## Configuration
 
 NexT comes with few configurations.
+
+
+
 
 ```yml
 

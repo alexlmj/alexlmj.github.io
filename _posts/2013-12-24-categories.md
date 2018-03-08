@@ -1,10 +1,10 @@
 ---
 title: Categories
-date: 2013-12-24 23:30:09
+date: 2018-03-09 17:30:22
 categories:
-- Foo
-- Bar
-- Baz
+- HTML
+- CSS
+- Random
 ---
 
 This post contains 3 categories. Make sure your theme can display all of the categories.
