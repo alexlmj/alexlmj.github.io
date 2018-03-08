@@ -1,175 +1,68 @@
 ---
-title: HTML기초 
+title: 블로그 시작! 
 date: 2018-03-09 17:30:22
-description: 이 카테고리는 HTML에 관한 일지입니다. 
+description: 깃헙 블로그를 시작합니다.
 categories:
 - HTML
 - CSS
-- Random
+- JS
 tags:
- - Html,CSS,웹디자인
+ - Html,CSS,JS,MJworld
 ---
 
-> 웹디자인의 기초라고 할 수 있는 HTML에 대해 알아가는 시간입니다.
+> 안녕하세요. 깃헙 블로그를 시작합니다.
 
 <!-- more -->
 
  
-## HTML의 역사
+## 기억하기 위해
 
-* HTML 기초 문법에 대해 알아봅시다.
+* 첫 번재 이유는 내가 오랫동안 기억하고 다루고 싶기 때문입니다.
+
+```sh
+
+여러가지 개발을 하다보면 어떤 오류를 해결했을 때 그 순간만 기억합니다.
+나중에 같은 오류더라도 또 구글링을 하는 나를보며...
+
+잊지않고 기억하기 위해 블로그를 작성합니다.
+
+```
+
+
+## 도움되기 위해
+
+* 두 번재 이유는 혹시나 이 블로그를 찾는 분들꼐 도움이 되고 싶기 때문입니다.
+
+```sh
+
+물론 더 잘 설명하고 더 유익한 블로그도 많지만,
+배우는 입장에서는 다양한 콘텐츠를 접할수록 더 많이 배웁니다.
+깃헙 블로그를 찾는 분들에게 조금이나마 도움되고 싶습니다.
+
+```
+
+
+## 지속하기 위해
+
+* 세 번재 이유는 혹시나 스스로 공부를 게을리할 것을 방지하고 싶기 때문입니다.
+
+```sh
+
+현재목표는 JS(Javascript) 의 기초까지 목표로 하고 있습니다.
+지속적으로 개발지식을 쌓기 좋은 매개체가 될 것입니다.
+
+```
+
+
+## 감사합니다.
+
+열심히 기록하고 도움되는 블로그가 되겠습니다.  
+
  
-
-
-## HTML 기초문법
-
-Check whether you have `Ruby 2.1.0` or higher installed:
-
-```sh
-ruby --version
-```
-
-Install `Bundler`:
-
-```sh
-gem install bundler
-```
-
-Clone Jacman theme:
-
-```sh
-git clone https://github.com/Simpleyyt/jekyll-theme-next.git
-cd jekyll-theme-next
-```
-
-Install Jekyll and other dependencies from the GitHub Pages gem:
-
-```sh
-bundle install
-```
-
-Run your Jekyll site locally:
-
-```sh
-bundle exec jekyll server
-```
-
-More Details：[Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
-
-
-## Features
-
-### Multiple languages support, including: English / Russian / French / German / Simplified Chinese / Traditional Chinese.
-
-Default language is English.
-
-```yml
-language: en
-# language: zh-Hans
-# language: fr-FR
-# language: zh-hk
-# language: zh-tw
-# language: ru
-# language: de
-```
-
-Set `language` field as following in site `_config.yml` to change to Chinese.
-
-```yml
-language: zh-Hans
-```
-
-### Comment support.
-
-NexT has native support for `DuoShuo` and `Disqus` comment systems.
-
-Add the following snippets to your `_config.yml`:
-
-```yml
-duoshuo:
-  enable: true
-  shortname: your-duoshuo-shortname
-```
-
-OR
-
-```yml
-disqus_shortname: your-disqus-shortname
-```
-
-### Social Media
-
-NexT can automatically add links to your Social Media accounts:
-
-```yml
-social:
-  GitHub: your-github-url
-  Twitter: your-twitter-url
-  Weibo: your-weibo-url
-  DouBan: your-douban-url
-  ZhiHu: your-zhihu-url
-```
-
-### Feed link.
-
-> Show a feed link.
-
-Set `rss` field in theme's `_config.yml`, as the following value:
-
-1. `rss: false` will totally disable feed link.
-2. `rss:  ` use sites' feed link. This is the default option.
-
-    Follow the installation instruction in the plugin's README. After the configuration is done for this plugin, the feed link is ready too.
-
-3. `rss: http://your-feed-url` set specific feed link.
-
 ### Up to 5 code highlight themes built-in.
 
-NexT uses [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) with 5 themes for you to choose from.
-Next use `normal` by default. Have a preview about `normal` and `night`:
-
-![Tomorrow Normal Preview](http://iissnan.com/nexus/next/tomorrow-normal.png)
-![Tomorrow Night Preview](http://iissnan.com/nexus/next/tomorrow-night.png)
-
-Head over to [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) for more details.
-
-## Configuration
-
-NexT comes with few configurations.
-
-
-
-
-```yml
-
-# Menu configuration.
-menu:
-  home: /
-  archives: /archives
-
-# Favicon
-favicon: /favicon.ico
-
-# Avatar (put the image into next/source/images/)
-# can be any image format supported by web browsers (JPEG,PNG,GIF,SVG,..)
-avatar: /default_avatar.png
-
-# Code highlight theme
-# available: normal | night | night eighties | night blue | night bright
-highlight_theme: normal
-
-# Fancybox for image gallery
-fancybox: true
-
-# Specify the date when the site was setup
-since: 2013
-
-```
+다른 저의 플랫폼 주소는 [MJworld](www.mjworld.co.kr) 입니다.
 
  
 
-### 안녕하세요. MJ git-world입니다. ###
-** MJ 깃헙 블로그를 찾아주신 분들께 감사드립니다.** 
-== 많은 정보를 전달하도록 하겠습니다. ==
-
-
+ 
