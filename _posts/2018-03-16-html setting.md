@@ -1,6 +1,6 @@
  ---
 title: 1장 Html의 기초 및 세팅 
-date: 2018-03-16 11:16:22
+date: 2018-03-09 17:30:22
 description: html css를 공부하기에 앞서,프로그램 설치 해봅시다.
 categories:
  - html
@@ -12,10 +12,9 @@ tags:
  - mjworld
 ---
 
-> 안녕하세요. 이번 장에서는 html 툴인 Bracket을 설치해볼거에요! 
+> 안녕하세요. 이번 장에서는 html 툴인 Bracket을 설치해볼거에요!
 
-
-
+<!-- more -->
 
 
 시작하기 앞서
@@ -26,7 +25,6 @@ html 기초 문법에 대해 알어보려 해요.
  천천히 따라온다면 누구나 html, Css에 대해 자신감이 붙을 거에요.
 
  이번 포스팅에서는 가볍게 공부하기 전 ** Bracket 기본 Setting** 을 하겠습니다.
-
 
 
 # Bracket
@@ -84,7 +82,7 @@ html 기초 문법에 대해 알어보려 해요.
 ![image](https://user-images.githubusercontent.com/20442104/37499735-b1324bce-2908-11e8-818a-af0809475091.png)
 
 
-이제 모든 설치가 끝났습니다. 이제 html,Css에 대가가 될 준비 끝!
+이제 모든 설치가 끝났습니다. 이제 다음 포스팅부터 html,Css 를 집중적으로 포스팅해봅시다.
 
 다음 시간에 만나요~ 
 
