@@ -17,14 +17,15 @@ tags:
 <!-- more -->
 
 
-시작하기 앞서
+==시작하기 앞서==
 
 
 html 기초 문법에 대해 알어보려 해요.
  저는 Bracket이란 개발 툴을 사용하려고 합니다.
+
  천천히 따라온다면 누구나 html, Css에 대해 자신감이 붙을 거에요.
 
- 이번 포스팅에서는 가볍게 공부하기 전 ** Bracket 기본 Setting** 을 하겠습니다.
+ 이번 포스팅에서는 가볍게 공부하기 전 __Bracket Setting__을 하겠습니다.
 
 
 # Bracket
@@ -33,7 +34,7 @@ html 기초 문법에 대해 알어보려 해요.
 
 친절하게 url 제공하겠습니닷. ㅎㅎㅎ
 
-==[브라켓 설치](http://brackets.io/)==
+[브라켓 설치](http://brackets.io/)
 
 브라켓은 (제 생각에) 다른 개발 툴보다 효율적인 것 같아요.
  Html과 Css창을 동시에 볼 수 있다는 점이 가장 큰 장점인 것 같아요.
@@ -48,22 +49,23 @@ html 기초 문법에 대해 알어보려 해요.
 브라켓 오른쪽 아이콘을 클릭하여서 검색하면 이런 창이 떠요
 
 ![image](https://user-images.githubusercontent.com/20442104/37504570-93538ac2-2922-11e8-878e-cdd84884040e.png)
-이런 아이콘!
+이런 아이콘! 아래 버튼을 눌러주세요.
 
 
+　　
+  
+  
+  # 기본 라이브러리 설치
 
 - color highlighter
 
-코딩하면서 어떤 색인지 한 눈에 알 수 있답니다.
-
-
 ![color highlighter](https://user-images.githubusercontent.com/20442104/37499422-f8eb4b16-2906-11e8-8512-1358c0895a18.png)
+
 
 저는 검색창에 color 라고 검색했습니다.
  그리고 나오는 많은 것 들 중 color highligher 프로그램을 설치할게요!
 
 
-# 라이브러리 설치
 
 **그 외에도 다음 라이브러리들을 설치해주세요!**
 
