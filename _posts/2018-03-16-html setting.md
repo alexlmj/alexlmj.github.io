@@ -1,7 +1,7 @@
 ---
 title: 1장 Html의 기초 및 세팅 
-date: 2018-03-09 17:30:22
-description: html css를 공부하기에 앞서,프로그램 설치 해봅시다!
+date: 2018-03-15 17:30:22
+description: html css를 공부하기에 앞서, 프로그램 설치와 셋팅을 해봅시다!
 categories:
 - html
 - css
@@ -21,7 +21,7 @@ html 기초 문법에 대해 알어보려 해요.
 천천히 따라온다면 누구나 html, Css를 다룰 수 있을거에요! 
 ~~~
 
-이번 포스팅에서는 가볍게 공부하기 전 **Bracket Setting** 을 하겠습니다.
+이번 포스팅에서는 가볍게 공부하기 전에 **Bracket Setting** 을 하겠습니다.
 
 
 
@@ -29,11 +29,7 @@ html 기초 문법에 대해 알어보려 해요.
 
 
 
-밑에 하이퍼링크를 클릭하셔서 brackets을 다운받읍시다.
-
-
-__[브라켓 설치경로](http://brackets.io/)__
-
+밑에 하이퍼링크를 클릭하셔서 brackets을 다운받읍시다. __[브라켓 설치경로](http://brackets.io/)__
 
 
 **브라켓의 장점**
@@ -66,8 +62,9 @@ __[브라켓 설치경로](http://brackets.io/)__
 
 ![image](https://user-images.githubusercontent.com/20442104/37504570-93538ac2-2922-11e8-878e-cdd84884040e.png)
 
+~~~
 이런 아이콘! 아래 버튼을 눌러주세요.
-
+~~~
 
 - color highlighter
 
@@ -81,7 +78,7 @@ __[브라켓 설치경로](http://brackets.io/)__
 
 
 
-#### 그 외에도 다음 라이브러리들을 설치해주세요!
+#### 그 외에도 라이브러리  설치
 
 - Emmet
 
