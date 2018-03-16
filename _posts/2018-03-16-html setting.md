@@ -1,15 +1,15 @@
- ---
+---
 title: 1장 Html의 기초 및 세팅 
 date: 2018-03-09 17:30:22
-description: html css를 공부하기에 앞서,프로그램 설치 해봅시다.
+description: html css를 공부하기에 앞서,프로그램 설치 해봅시다!
 categories:
- - html
- - css
- - setting
+- html
+- css
+- setting
 tags:
- - html
- - framework
- - mjworld
+- html
+- framework
+- mjworld
 ---
 
 > 안녕하세요. 이번 장에서는 html 툴인 Bracket을 설치해볼거에요!
