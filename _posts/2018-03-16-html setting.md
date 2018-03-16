@@ -9,7 +9,7 @@ categories:
 tags:
 - html
 - framework
-- mjworld
+- MJworld
 ---
 
 > 안녕하세요. 이번 장에서는 html 툴인 Bracket을 설치해볼거에요!
@@ -38,13 +38,19 @@ html 기초 문법에 대해 알어보려 해요.
 브라켓은 (제 생각에) 다른 개발 툴보다 효율적인 것 같아요.
  Html과 Css창을 동시에 볼 수 있다는 점이 가장 큰 장점인 것 같아요.
 
-요렇게 ㅎㅎ 짜잔~
+요렇게 ㅎㅎ 짜잔~ 
 
-![color highlighter]()
+![image](https://user-images.githubusercontent.com/20442104/37504347-137c618a-2921-11e8-9cd3-c91bac6e03c3.png)
+
 
 
 오늘 설치할 라이브러리를 차례차례 설치해 볼게요.
 브라켓 오른쪽 아이콘을 클릭하여서 검색하면 이런 창이 떠요
+
+![image](https://user-images.githubusercontent.com/20442104/37504570-93538ac2-2922-11e8-878e-cdd84884040e.png)
+이런 아이콘!
+
+
 
 - color highlighter
 

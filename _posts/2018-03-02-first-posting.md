@@ -4,6 +4,7 @@ date: 2018-03-09 17:30:22
 description: 깃헙 블로그를 시작합니다. 시작하는 글!
 categories:
 - Start
+- blog
 tags:
 - MJworld
 - Start
