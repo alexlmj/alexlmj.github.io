@@ -1,5 +1,7 @@
 ---
-title: Html의 기초(1)
+title: 1장 Html의 기초 및 세팅
+date: 2018-03-16 11:16:22
+description: html css를 공부하기에 앞서,프로그램 설치 해봅시다.
 categories:
  - html
  - css
