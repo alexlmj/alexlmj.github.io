@@ -27,14 +27,10 @@ html 기초 태그들에 대해서 직접 써보면서 배워볼거에요.
 
 (3) Title에 간단하게 Lession 1 이라고 입력할게요.
 
+![image](https://postfiles.pstatic.net/MjAxODAzMTZfMTIg/MDAxNTIxMTk4Mjg0ODU5.TM7jJ2XB1vp0oMsQGuWHXUx_5b47SP1H4IUsK3nVIiQg.J27OeOCwXBc6zd1DG63vhYt_8UPdaKVEMT7KZW1OCKYg.GIF.stormkanzi/hello.gif?type=w966)
 
-![image](https://postfiles.pstatic.net/MjAxODAzMjhfMjM5/MDAxNTIyMTY3OTI0MDY5.BDt-S4RUFrWEEPbe7XEZXK4TkgCfKa-5rSHSEaRpREEg.sL64v98bZ55oPPEBXc_DbK10J_5T1ew3OCfWOsa4SGgg.GIF.stormkanzi/AC_20180328-012414.gif?type=w966)
-
-
-
-
-이렇게요! 변하는 것이 보이시나요?
-Bracket이 작업하기 편한 환경을 제공해 준답니다.
+이렇게요! 변하는 것이 보이시나요? 
+Bracket이 작업하기 편한 환경을 제공해 준답니다. 
 
 
 # .div - 레이아웃의 기본
