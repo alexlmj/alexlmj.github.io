@@ -1,7 +1,7 @@
 ---
 title: 1장 Html의 기초
 date: 2018-04-02 23:30:22
-description: html의 기초에 대해 맛보기 해봅시다.
+description: html의 기본 구조, 태그의 종류와 속성들에 대해 알아봅시다.
 categories:
 - html
 - css
@@ -141,23 +141,26 @@ generator와 Author는 크게 중요하지 않은 부분이라고 하네요. <br
 `(1)a href와 img 태그의 사용`
 
 
+
+
 ![image](https://user-images.githubusercontent.com/20442104/38254842-378abd4c-3795-11e8-81f1-fb386e93b5c3.png)
 
-위 그림처럼 보통 <img src= 기본 속성 alt="로고" 형태로 작성합니다.
+위 그림처럼 보통 < img src= 기본 속성 alt="로고" > 형태로 작성합니다.
+
+
 
 속성을 넣어 둔 다음에 지속적으로 다른 속성을 추가할 수 있습니다.
 또한 width , height 는 기본적으로 알아야 가로, 세로를 조정할 수 있습니다.
 
-
 ** Tip1 이미지 업로드 시 테두리 제거 **
 
-img 태그의 속성에 border = 0 으로 설정,
+img 태그의 속성에 border = 0 으로 설정! 
+
 
 ** Tip2 링크 클릭시, 새 탭으로 연결 **
 
-a 태그의 속성에 target이라는 곳에 _blank를 해준다.
+a 태그의 속성에 target이라는 곳에 _blank를 해준다. 
 
-(위에 캡쳐한 모습)
 
 
 오늘은 html 첫시간이었습니다.
