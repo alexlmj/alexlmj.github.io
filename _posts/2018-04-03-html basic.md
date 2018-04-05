@@ -23,44 +23,45 @@ tags:
 HTML 4.01의 문서 형식은 Strict, Transitional, Frameset으로 나뉜답니다.
 
 
-#####`(1)strict 선언`
+`(1)strict 선언`
 
 strict 선언은 효과 위주의 마크업 태크들(< b >,< i > 등)을 금지해요.
 
- 
+~~~
     <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
      "http://www.w3.org/TR/html4/strict.dtd">
+~~~
 
-#####`(2)loose 선언`
+`(2)loose 선언`
 
 loose하게 선언은 strict에서 금지된 태그를 허용해요.
 
-
+~~~
     <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
      "http://www.w3.org/TR/html4/loose.dtd">
+~~~
 
 
 
-
-#####`(3)frameset 선언`
+`*(3)frameset 선언*`
 
 frameset 선언은 프레임 구조를 지원합니다.
 
-
+~~~
     <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
      "http://www.w3.org/TR/html4/frameset.dtd">
-
+~~~
  
 이 링크를 통해 테스트를 바로 해볼 수 이습니다. __[요기](http://dalidator.kldp.org/)__
  
 
-#####`(4)html5 선언 선언`
+`(4)html5 선언 선언`
  
 하지만 요즘은 간단하게 html 선언 요렇게 짠!
 
-
+~~~
     <!DOCTYPE html>
-
+~~~
  
 
 # html 태그의 종류들
@@ -68,13 +69,13 @@ frameset 선언은 프레임 구조를 지원합니다.
 태그의 종류에는 홀 태그와 쌍 태그로 나뉩니다.
 
 
-#####`(1) 홀 태그의 종류`
+`(1) 홀 태그의 종류`
  
 < br/> < hr/> < meta/>
 <br>
 html5 에서는 닫는 태그 외에도 역슬래시 (/)가 필요하다.
 
-#####`(2) 쌍 태그의 종류`
+`(2) 쌍 태그의 종류`
 
 < center> < /center> , < ul> < /ul> , < p> < /p>
 < li> < /li> , < h1> < /h1> , < div> < /div> , < span> < /span><br>
@@ -84,13 +85,13 @@ html5 에서는 닫는 태그 외에도 역슬래시 (/)가 필요하다.
 
 # 태그의 속성
 
-#####`(1)Inline 태그`
+`(1)Inline 태그`
  
 특징: 아래로 떨어지지 않고 옆으로 계속 붙여서 쓸 수 있는 것이에요! <br>
 예시) < span> </ span> < img/>
 
 
-#####`(2)Block 태그`
+`(2)Block 태그`
 
 특징: 아래로 떨어지는 태그 다음 요소들은 밑으로 떨어진다! <br>
 예시) < p> < /p> ,  < ul> < /ul> 등! 
@@ -119,13 +120,13 @@ html5 에서는 닫는 태그 외에도 역슬래시 (/)가 필요하다.
 
 ###### header 안에는 title 태그가 들어간다.
 
-#####`(1)title이 중요한 이유`
+`(1)title이 중요한 이유`
  
 웹 검색을 하게 되면, 웹 크롤러가 긁어가는 부분이 title 부분이에요.
 이 title을 어떻게 넣어주느냐에 따라서 마케팅 할 때 주요 요소로 쓰입니닷
 즐겨찾기에 추가할 때도, 이 title이 주요 역할을 하죠.
 
-#####`(2)meta 태그의 속성들`
+`(2)meta 태그의 속성들`
  
 generator와 Author는 크게 중요하지 않은 부분이라고 하네요.
  어떤 작업 툴을 썼는지를 나타낸다고 합니다.
