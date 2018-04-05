@@ -1,6 +1,6 @@
 ---
-title: 1장 Html의 기초 및 세팅 
-date: 2018-03-15 17:30:22
+title: 0장 Bracket의 설치와 셋팅
+date: 2018-03-16 17:30:22
 description: html css를 공부하기에 앞서, 프로그램 설치와 셋팅을 해봅시다!
 categories:
 - html
@@ -11,21 +11,21 @@ tags:
 - framework
 - MJworld
 ---
- 
-> Bracket 설치와 기본 세팅 
+
+> Bracket 설치와 기본 세팅
 
 
 ~~~
-html 기초 문법에 대해 알어보려 해요.
+html 기초 문법에 대해 공부하기 전에,
 저는 Bracket이란 개발 툴을 사용하려고 합니다.
-천천히 따라온다면 누구나 html, Css를 다룰 수 있을거에요! 
+천천히 따라온다면 누구나 html, Css를 다룰 수 있을거에요!
 ~~~
 
 이번 포스팅에서는 가볍게 공부하기 전에 **Bracket Setting** 을 하겠습니다.
 
 
 
-# .Bracket 설치
+# Bracket 설치
 
 
 
@@ -40,7 +40,7 @@ html 기초 문법에 대해 알어보려 해요.
 (3) 실시간 웹 코딩 반영 결과를 볼 수 있다.
 ~~~
 
-요렇게 ㅎㅎ 짜잔~ 
+요렇게 ㅎㅎ 짜잔~
 
 ![image](https://user-images.githubusercontent.com/20442104/37504347-137c618a-2921-11e8-9cd3-c91bac6e03c3.png)
 
